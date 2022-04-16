@@ -1,5 +1,5 @@
 # MAC-address-Changer
-This code will help you to change your Linux system to change their MAC address, and  so you can stay anonymous ...
+This code will help you to change your MAC-Address in linux distribution , and  so you can stay anonymous ...
 
 After cloning the repository
 
